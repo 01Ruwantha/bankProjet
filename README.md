@@ -1,4 +1,6 @@
-# Banking Management System
+<div align = "center"><img src="https://github.com/01Ruwantha/bankProjet/blob/a69690d755e4ffe44320b7f239e2d7ee63a47feb/Bank.png" /></div>
+
+<h1>Banking Management System </h1> 
 
 ## Project Overview
 Now a days every one very busy in their work. So, they feel that the job must be easier so the system is used to reduce their work which is done in the Banking system. Instead of keeping lots of paper into a record or file and it may be missed somewhere so, this system helps to keep the record of the customer it also keeps the details of the customer. It is also easy to access
