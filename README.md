@@ -96,11 +96,6 @@ This banking system provides the following benefits:
 - *Polymorphism*: Method overloading and overriding.
 - *Encapsulation*: Private attributes with controlled access.
 
-## Project Modifications
-- Removed TransferService and PaymentService classes.
-- Updated from 7 classes to 10 classes.
-- Transitioned from CLI to GUI interface.
-
 ## Challenges Faced and Solutions
 *Challenges:*
 - Developing GUI interfaces.
